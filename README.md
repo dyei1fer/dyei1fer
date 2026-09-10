@@ -6,7 +6,7 @@
 
 #
 
-Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cursando Bacharelado em Ciências da Computação na Universidade Vale do Aracaú (UVA). Estou mergulhando a fundo no mundo da progamação para me tornar experiente, tenho bastante curiosidade em explorar algo novo e botar em prática os ensinamentos.a
+Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cursando Bacharelado em Ciências da Computação na Universidade Vale do Aracaú (UVA). Estou mergulhando a fundo no mundo da progamação para me tornar experiente, tenho bastante curiosidade em explorar algo novo e botar em prática os ensinamentos.
  
 #
 
