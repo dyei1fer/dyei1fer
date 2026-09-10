@@ -44,9 +44,6 @@ Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cu
 <br>
 <br>
 <br>
-<br>
-
-#
 
 <div style="text-align: center;" align="center">
 <h3 align="left">GitHub Stats</h3>
