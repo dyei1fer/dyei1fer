@@ -6,7 +6,7 @@
 
 #
 
-Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cursando Bacharelado em Ciências da Computação na UVA. 
+Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cursando Bacharelado em Ciências da Computação na Universidade Vale do Aracaú (UVA). 
  
 #
 
@@ -44,14 +44,14 @@ Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=dyei1fer&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=101323&title_color=8E4585&text_color=8E4585&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estatisticas%"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=dyei1fer&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=8E4585&text_color=8E4585&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estatisticas%"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-one-zeta-53.vercel.app/api/top-langs/?username=dyei1fer&layout=compact&custom_title=Estande&langs_count=8&bg_color=101323&title_color=8E4585&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&" 
+      src="https://github-readme-stats-one-zeta-53.vercel.app/api/top-langs/?username=dyei1fer&layout=compact&custom_title=Estande&langs_count=8&bg_color=000000&title_color=8E4585&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&" 
   />
 
 </p>
