@@ -14,8 +14,9 @@ Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cu
 
 
 
-<h3 align="left">Minha Estande ~</h3>
+<h3 align="left">My Stacks ~</h3>
 
+<div align="left">
 <img 
     align="left" 
     alt="Python"
@@ -33,9 +34,11 @@ Prazer, me chamo Dyeiwison Ferreira da Silva, tenho 20 anos. Atualmente estou cu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
-<br/>
-<br/>
 
+
+#
+
+<div style="text-align: center;" align="center">
 <h3 align="left">GitHub Stats</h3>
 
 <p>
